@@ -1,8 +1,5 @@
-hello world first line
+hello world
 hello world second line
 hello world third line
 hello world fourth line
 hello world fifth line
-hello world sixth line
-hello world seventh line
-
